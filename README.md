@@ -4,24 +4,13 @@
 
 ## 视启未来
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>美甲效果展示1</h3>
-      <a href="assets/videos/nail-demo-1.mp4">
-        <img src="assets/images/nail-demo-1-cover.jpg" alt="美甲效果展示1" width="100%">
-      </a>
-      <p>▶ 点击播放视频</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>美甲效果展示2</h3>
-      <a href="assets/videos/nail-demo-2.mp4">
-        <img src="assets/images/nail-demo-2-cover.jpg" alt="美甲效果展示2" width="100%">
-      </a>
-      <p>▶ 点击播放视频</p>
-    </td>
-  </tr>
-</table>
+### 美甲效果展示1
+
+https://github.com/user-attachments/assets/e80b7777-aa4c-4691-92ad-79b4f52a5b3b
+
+### 美甲效果展示2
+
+https://github.com/user-attachments/assets/28f269fe-4eb2-495a-8b41-2cd38da872b6
 
 ### RLT 操作网页
 
@@ -37,13 +26,7 @@
 
 ### G1避障展示
 
-<p align="center">
-  <a href="assets/videos/g1-obstacle-avoidance.mp4">
-    <img src="assets/images/g1-obstacle-avoidance-cover.jpg" alt="G1避障展示" width="100%">
-  </a>
-</p>
-
-<p align="center">▶ 点击播放视频</p>
+https://github.com/user-attachments/assets/608a68bb-6efd-4ee6-bc31-a46f73433c64
 
 ### G1 可视化操作网页
 
@@ -51,21 +34,10 @@
   <img src="assets/images/g1-web.png" alt="G1 可视化操作网页" width="100%">
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>电机demo展示</h3>
-      <a href="assets/videos/motor-demo.mp4">
-        <img src="assets/images/motor-demo-cover.jpg" alt="电机demo展示" width="100%">
-      </a>
-      <p>▶ 点击播放视频</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>机械臂demo展示</h3>
-      <a href="assets/videos/robot-arm-demo.mp4">
-        <img src="assets/images/robot-arm-demo-cover.jpg" alt="机械臂demo展示" width="100%">
-      </a>
-      <p>▶ 点击播放视频</p>
-    </td>
-  </tr>
-</table>
+### 电机demo展示
+
+https://github.com/user-attachments/assets/bd366b69-2143-4cc3-b854-71ae9414b283
+
+### 机械臂demo展示
+
+https://github.com/user-attachments/assets/1b91ce83-0de2-4ebd-960c-3d7f6ca8c7ac
